@@ -7,7 +7,6 @@
 ## HELLO WORLD !!! Référil vous salue 
 
 - Etudiant en prépa d'ingénierie à l'INSPEI d'Abomey
-- Membre du club d'IA universitaire , nous serons amaner à travailler sur différents projets ....
 
 ## 🎯 OBJECTIFS 
 
@@ -35,9 +34,9 @@ Je répondrai du mieux que je peux 😉😜😎
 
 
 ## 💼 Mes outils :
-- **Langages :** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Technos :** ![Django](https://img.shields.io/badge/-Django-092E20?logo=django) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+- **Langages :** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)(https://www.python.org/) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- **Technos :** ![Django](https://img.shields.io/badge/-Django-092E20?logo=django) ![]()
 
 ## Mes projets
-- [Nom du projet](lien_vers_le_projet) : Une brève description ici.
+- [Nom du projet](lien_vers_le_projet) : Pas encore fourni .
 
