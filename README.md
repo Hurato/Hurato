@@ -1,19 +1,43 @@
-# Bienvenue dans monprofil github
+# Bienvenue dans mon profil GITHUB
 
-## Qui suis-je ?
-- Référil , Etudiant en prépa d'ingénierie à l'INSPEI d'Abomey 
+
+[![GitHub followers](https://img.shields.io/github/followers/Hurato?label=Suiveurs&style=social)](https://github.com/Hurato)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hurato&show_icons=true&theme=radical)](https://github.com/Hurato)
+
+## HELLO WORLD !!! Référil vous salue 
+
+- Etudiant en prépa d'ingénierie à l'INSPEI d'Abomey
 - Membre du club d'IA universitaire , nous serons amaner à travailler sur différents projets ....
+
+## 🎯 OBJECTIFS 
+
+- 🚀 **Explorer des projets en machine learning et IA.**
+- 🤝 **Collaborer sur des initiatives technologiques innovantes.**
+- 📈 **Apprendre et partager mes connaissances avec la communauté.**
+
 - Vous pouvez me contacter directement via [mon mail][[Refefilahinivi@gmail.com](mailto:refefilahinivi@gmail.com)]
 
-## TOPO
+## 🌟 À propos de moi :
 
-- 🔭 Etudiant à l'INSPEI Abomey 
-- 🌱 Je suis en train d’apprendre la programmation en machin learning
-- 👯 Je cherche à collaborer sur divers projets d'avenir pour imerger dans la vie active 
-- 🤔 Je cherche de l’aide pour m'organiser et m'aider pour divers trucs je ne suis techniquement pas encore au point 
+- 🔭 Je travaille actuellement sur des projets innovants en IA.
+- 🌱 J'apprends actuellement le **machine learning** et le développement web.
+- 👯 Je recherche des collaborations pour des projets open-source.
+
 - 💬 Ask me about tous ce que vous voulez 
 Je répondrai du mieux que je peux 😉😜😎
-- 📫 Comment me rejoindre : [Facebook][[Hurato Dragnir](https://www.facebook.com/profile.php?id=100057669460960)]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love Games and Manga also food and relaxing 🤧😇
+
+## Contactez-moi
+
+- ✉️ Email : [referilahinivi@gmail.com](mailto:referilahinivi@gmail.com)
+- 💬 Facebook : [Hurato Dragnir](https://facebook.com/Hurato.Dragnir)
+
+
+
+## 💼 Mes outils :
+- **Langages :** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- **Technos :** ![Django](https://img.shields.io/badge/-Django-092E20?logo=django) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+
+## Mes projets
+- [Nom du projet](lien_vers_le_projet) : Une brève description ici.
 
