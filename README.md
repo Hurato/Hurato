@@ -13,6 +13,6 @@
 - 🤔 Je cherche de l’aide pour m'organiser et m'aider pour divers trucs je ne suis techniquement pas encore au point 
 - 💬 Ask me about tous ce que vous voulez 
 Je répondrai du mieux que je peux 😉😜😎
-- 📫 Comment me rejoindre : [Facebook][[text](https://www.facebook.com/profile.php?id=100057669460960)]
+- 📫 Comment me rejoindre : [Facebook][Hurato Dragnir](https://www.facebook.com/profile.php?id=100057669460960)]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
